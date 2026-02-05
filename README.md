@@ -26,14 +26,6 @@ This project is a conversational AI chatbot built using the Falcon-7B-Instruct m
 - **Device Management**: Learned to check for GPU availability and automatically place models and data on the appropriate device using `device_map="auto"`.
 - **Performance Optimization**: Discovered that even with a GPU, model inference requires careful parameter tuning to balance speed and quality.
 
-### 6. Chat System Design
-- **Conversation History**: Implemented a system to maintain conversation context by keeping a history of exchanges, allowing for more coherent multi-turn conversations.
-- **Response Cleaning**: Learned techniques to clean and format model outputs, removing prompt remnants and truncating at natural stopping points.
-
-### 7. Safety and Best Practices
-- **Code Security**: Learned the importance of setting `trust_remote_code=False` when possible, using official implementations instead of potentially unsafe custom code.
-- **Warning Management**: Understood when to suppress warnings for cleaner output versus when to pay attention to them for debugging.
-
 ## Technical Implementation Details
 
 The project is structured as a Jupyter script that:
