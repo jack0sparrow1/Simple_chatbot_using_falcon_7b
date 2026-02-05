@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a conversational AI chatbot built using the Falcon-7B-Instruct model from Hugging Face. The chatbot runs in Google Colab and provides an interactive chat interface where users can have natural conversations with an AI assistant. I have done this project in google colab and here is the link to it. [Google Colab Link](https://colab.research.google.com/drive/1_KGEu3K1QHUN-r20wiy-dZR3Lrsb5DYM?usp=sharing)
+This project is a conversational AI chatbot built using the Falcon-7B-Instruct model from Hugging Face. The chatbot runs in Google Colab and provides an interactive chat interface where users can have natural conversations with an AI assistant. I have done this project in google colab and here is the link to it: [Google Colab Link](https://colab.research.google.com/drive/1_KGEu3K1QHUN-r20wiy-dZR3Lrsb5DYM?usp=sharing)
 
 ## What I Learned From This Project
 
